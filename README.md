@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there :D
+
+<b>Current data courses --</b> 
+1. statisical analysis & decision modelling
+2. systems analysis & design
+
+
 
 <!--
 **ejarredondo/ejarredondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
