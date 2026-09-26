@@ -1,6 +1,11 @@
-## Hi there :D
+## welcome! ♡ ༻˖ ࣪ ∗
 
-<b>Current data courses --</b> 
+Hi there :D
+My name is Elizabeth and I am a current senior studying data science and pure mathematics
+
+────୨ৎ────
+
+<b>⇢ ˗ˏˋ current data courses ࿐ྂ</b> 
 1. statisical analysis & decision modelling
 2. systems analysis & design
 
