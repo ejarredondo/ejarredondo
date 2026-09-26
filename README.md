@@ -1,15 +1,16 @@
 ## welcome! ♡ ༻˖ ࣪ ∗
 
-<p>Hi there (˶ˆᗜˆ˵)<br>
+<p>Hi there (˶ˆᗜˆ˵)<br><br>
 My name is Elizabeth and I am a current senior studying data science and pure mathematics</p>
 
 ────୨ৎ────
 
-<b>⇢ ˗ˏˋ current data courses ࿐ྂ</b> 
-1. statisical analysis & decision modelling
-2. systems analysis & design
+<b>⇢ ˗ˏˋ <i>current data courses</i> ࿐ྂ</b> 
+1. principles of statisical analysis & decision modelling ⋆‧°𓏲ּ𝄢
+2. systems analysis & design ⋆˚꩜｡
 
-
+<b>ೃ⁀➷ <i>current project(s)</i></b><br>
+<p>mini-MLP design & build</p>
 
 <!--
 **ejarredondo/ejarredondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
