@@ -1,7 +1,7 @@
 ## welcome! ♡ ༻˖ ࣪ ∗
 
-Hi there :D
-My name is Elizabeth and I am a current senior studying data science and pure mathematics
+<p>Hi there (˶ˆᗜˆ˵)<br>
+My name is Elizabeth and I am a current senior studying data science and pure mathematics</p>
 
 ────୨ৎ────
 
