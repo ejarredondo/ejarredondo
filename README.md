@@ -22,6 +22,7 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 ![Scikit-learn](https://www.readmecodegen.com/api/social-icon?name=scikitlearn&size=64)
 ![NumPy](https://www.readmecodegen.com/api/social-icon?name=numpy&size=64)
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="64" height="64" alt="seaborn"> 
+![scipy](https://www.readmecodegen.com/api/social-icon?name=scipy&size=64)
 ![SQLite](https://www.readmecodegen.com/api/social-icon?name=sqlite&size=64)
 
 ### <i>tools</i>
