@@ -9,7 +9,7 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 1. principles of statisical analysis & decision modelling ⋆‧°𓏲ּ𝄢
 2. systems analysis & design ⋆˚꩜｡
 
-## ೃ⁀➷ <i>current project(s)</i></<br>
+## ೃ⁀➷ <i>current project(s)</i><br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;mini-MLP design & build -- constructing multi-layer perceptron (MLP) with 2 & 3 hidden layers without using scikit-learn</p>
 
 ## *ੈ✩‧₊˚ <i>tech skills</i>
