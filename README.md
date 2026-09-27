@@ -14,7 +14,7 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 
 ## *ੈ✩‧₊˚ <i>tech skills</i>
 ### <i>languages</i>
-![Python](https://www.readmecodegen.com/api/social-icon?name=python&size=96) ![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000) ![HTML5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96)
+![Python](https://www.readmecodegen.com/api/social-icon?name=python&size=96) ![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000) ![HTML5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96)![css](https://www.readmecodegen.com/api/social-icon?name=css&size=96)
 
 #### <i>python libraries</i>
 ![Pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=64)
@@ -24,6 +24,7 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="64" height="64" alt="seaborn"> 
 ![scipy](https://www.readmecodegen.com/api/social-icon?name=scipy&size=64)
 ![SQLite](https://www.readmecodegen.com/api/social-icon?name=sqlite&size=64)
+![sqlalchemy](https://www.readmecodegen.com/api/social-icon?name=sqlalchemy&size=64)
 
 ### <i>tools</i>
 <img width="64" height="64" alt="VSCode" src="https://github.com/user-attachments/assets/11cf30d6-09f2-4252-91db-143b412979d3"/>
