@@ -10,7 +10,7 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 2. systems analysis & design ⋆˚꩜｡
 
 <b>ೃ⁀➷ <i>current project(s)</i></b><br>
-<p>mini-MLP design & build</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;mini-MLP design & build -- constructing multi-layer perceptron (MLP) with 2 & 3 hidden layers without using scikit-learn</p>
 
 <!--
 **ejarredondo/ejarredondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
