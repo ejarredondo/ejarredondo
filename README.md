@@ -10,7 +10,7 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 2. systems analysis & design ⋆˚꩜｡
 
 ## ೃ⁀➷ <i>current project(s)</i><br>
-<p><b>mini-MLP design &amp; build</b> -- multi-layer perceptron (MLP) built without using scikit-learn classifying XOR/XNOR via random weight search; comparing 2-perceptron vs. 3-perceptron hidden layers</p>
+<p><b>MLP to Neural Network using TensorFlow</b> -- 3 different versions of multi-layer perceptron (MLP) built using TensorFlow to classify XOR/XNOR data; create 1-layer, 2-layer and 3-layer perceptrons then compare results</p>
 
 ## *ੈ✩‧₊˚ <i>tech skills</i>
 ### <i>languages</i>
