@@ -10,11 +10,14 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 2. systems analysis & design ⋆˚꩜｡
 
 ## ೃ⁀➷ <i>current project(s)</i><br>
-<p><b>MLP to Neural Network using TensorFlow</b> -- 3 different versions of multi-layer perceptron (MLP) built using TensorFlow to classify XOR/XNOR data; create 1-layer, 2-layer and 3-layer perceptrons then compare results</p>
+<p><b>MLP to Neural Network using TensorFlow &amp; Keras</b> -- 3 different versions of multi-layer perceptron (MLP) built using TensorFlow to classify XOR/XNOR data; create 1-layer, 2-layer and 3-layer perceptrons then compare results</p>
 
 ## *ੈ✩‧₊˚ <i>tech skills</i>
 ### <i>languages</i>
-![Python](https://www.readmecodegen.com/api/social-icon?name=python&size=96) ![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000) ![HTML5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96)![css](https://www.readmecodegen.com/api/social-icon?name=css&size=96)
+![Python](https://www.readmecodegen.com/api/social-icon?name=python&size=96) 
+![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000) 
+![HTML5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96)
+![css](https://www.readmecodegen.com/api/social-icon?name=css&size=96)
 
 #### <i>python libraries</i>
 ![Pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=64)
@@ -25,6 +28,8 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 ![scipy](https://www.readmecodegen.com/api/social-icon?name=scipy&size=64)
 ![SQLite](https://www.readmecodegen.com/api/social-icon?name=sqlite&size=64)
 ![sqlalchemy](https://www.readmecodegen.com/api/social-icon?name=sqlalchemy&size=64)
+![tensorflow](https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=64)
+![keras](https://www.readmecodegen.com/api/social-icon?name=keras&size=64)
 
 ### <i>tools</i>
 <img width="64" height="64" alt="VSCode" src="https://github.com/user-attachments/assets/11cf30d6-09f2-4252-91db-143b412979d3"/>
