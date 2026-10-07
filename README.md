@@ -12,7 +12,7 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 ## ೃ⁀➷ <i>current project(s)</i><br>
 <p><b>Neural Networks with TensorFlow: Hidden Layers</b> -- creating basic neural network with 1, 2 and 3 hidden layers using TensorFlow and Keras; making visual of networks showing each layer and nodes then write reflection about the purpose of each hidden layer
   
-  <b>MLP to Neural Network using TensorFlow &amp; Keras</b> -- 3 different versions of multi-layer perceptron (MLP) built using TensorFlow to classify XOR/XNOR data; create 1-layer, 2-layer and 3-layer perceptrons then compare results between models and with manually created model</p>
+  <b>MLP to Neural Network using TensorFlow &amp; Keras</b> -- 3 different versions of multi-layer perceptron (MLP) built using TensorFlow to classify XOR/XNOR data; create MLPs with 1, 2 and 3 hidden layers then compare results between models and with manually created model</p>
 
 ## *ੈ✩‧₊˚ <i>tech skills</i>
 ### <i>languages</i>
