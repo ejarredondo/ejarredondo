@@ -10,7 +10,7 @@ My name is Elizabeth and I am a current senior studying data science and pure ma
 2. systems analysis & design ⋆˚꩜｡
 
 ## ೃ⁀➷ <i>current project(s)</i><br>
-<p><b>MLPs/NNs: Working with Parameters</b> -- iterate over previous MLP/NN to determine which parameter should be changed to achieve as close to 100% accuracy as possible.</p>
+<p><b>MLPs/NNs: Working with Parameters</b> -- iterate over previous MLP/NN to determine which parameter (learning rate, number of hidden layers, number of neurons per hidden layer, epochs) should be changed to achieve as close to 100% accuracy as possible.</p>
 
 ## *ੈ✩‧₊˚ <i>tech skills</i>
 ### <i>languages</i>
